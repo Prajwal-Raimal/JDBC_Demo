@@ -9,7 +9,7 @@ public class JdbcDemo {
 
         String url = "jdbc:mysql://localhost:3306/jdbc_demo";
         String username = "root";
-        String password = "root";
+        String password = "MySQL_Password";
 
         String query = "SELECT id,name,city FROM student";
 
